@@ -17,3 +17,4 @@ LED
 120kQ Resistor
 
 12V Battery# Automatic-Night-Light-System
+![Circuit](IMG_2026.jpg)
